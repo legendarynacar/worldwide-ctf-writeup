@@ -17,4 +17,4 @@ Intending to share my and other's writeups with respectfully referencing. This r
 
 ### STMCTF
 
-[Total 4 write ups](https://github.com/legendarynacar/worldwide-ctf-writeup/STMCTF-2018)
+[Total 4 write ups](https://github.com/legendarynacar/worldwide-ctf-writeup/tree/master/STMCTF-2018)
